@@ -1,0 +1,7 @@
+### Steps to collaborating using GitHub
+
+1. Lead author pushes committed code to GitHub
+2. Co-author navigates to online repository (e.g. github.com/lead_author/repos)
+3. Click 'Clone or download' button, this will download the files (in a zip folder) to your remote desktop
+4. Edit the files as necessary
+
