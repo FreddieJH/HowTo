@@ -2,6 +2,12 @@
 
 1. Lead author pushes committed code to GitHub
 2. Co-author navigates to online repository (e.g. github.com/lead_author/repos)
-3. Click 'Clone or download' button, this will download the files (in a zip folder) to your remote desktop
-4. Edit the files as necessary
+3. Click 'Fork' - this will create a copy of the reposity in your own Github
+4. Rename the branch from 'master' to [e.g.] 'FreddieEdits' 
+5. Create a new Rproject on your local desktop and select the Github url to the new fork you've made
+5. Click 'Clone or download' button, this will download the files (in a zip folder) to your local repository where you .Rproj is found
+6. Edit the files as necessary
+7. 'Push' the changes to your own Github repo
+8. Click 'new pull request' to send a message to the project owner to say you want to merge your code with theirs
+9. Start a discussion and they can merge if like
 
